@@ -1,0 +1,23 @@
+.overflow-hidden { overflow: hidden; }
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+ a {
+    color:blue;
+    text-decoration: none; /* no underline */
+  }
+#menulinks {
+    color:black;
+    text-decoration: none; /* no underline */
+  }
+#collapsefavo{
+  color:black;
+  text-decoration: none; /* no underline */
+
+}
+#copy{
+  color:black;
+    
+}
+
